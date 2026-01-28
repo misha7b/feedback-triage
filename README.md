@@ -1,4 +1,4 @@
-# Cloudflare Internship Takehome Assignment)
+# Cloudflare Internship Takehome Assignment
 
 # Feedback Triage 
 
