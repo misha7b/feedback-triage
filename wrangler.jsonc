@@ -9,6 +9,20 @@
 	"compatibility_date": "2025-09-27",
 	"observability": {
 		"enabled": true
+	},
+
+	// D1 Database - stores feedback and triage decisions
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "feedback-triage-db",
+			"database_id": "2bb82a10-7bc5-43e1-acbc-ac3951f7b891"
+		}
+	],
+
+	// Workers AI - classify feedback (urgency, sentiment, category)
+	"ai": {
+		"binding": "AI"
 	}
 	/**
 	 * Smart Placement
