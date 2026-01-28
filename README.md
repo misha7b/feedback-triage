@@ -7,7 +7,6 @@ A Cloudflare Workers application for managing and categorizing customer feedback
 ## Features
 
 - **Multi-source feedback collection** - Discord, Twitter, GitHub, and Support tickets
-- **AI-powered enrichment** - Automatic urgency, sentiment, and category classification
 - **Triage queue** - Rapidly categorize feedback as Escalate, Backlog, Duplicate, or Noise
 - **Review dashboard** - Filter and track triaged issues with resolution status
 - **Keyboard shortcuts** - Power-user friendly (E/B/D/N for triage decisions)
