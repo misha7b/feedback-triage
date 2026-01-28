@@ -32,7 +32,7 @@ A Cloudflare Workers application for managing and categorizing customer feedback
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/feedback-triage.git
+git clone https://github.com/misha7b/feedback-triage.git
 cd feedback-triage
 
 # Install dependencies
@@ -56,7 +56,7 @@ wrangler d1 execute feedback-triage-db --local --file=migrations/0003_add_resolv
 npm run dev
 ```
 
-The app will be available at `http://localhost:8787`
+The app will be available at `https://feedback-triage.michael7belyaev.workers.dev`
 
 ### Deployment
 
